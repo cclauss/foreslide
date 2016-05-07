@@ -1,5 +1,5 @@
 # foreslide
-_Fore_cast land_slide_s and then warn those who may be in warm's way.
+Forecast landslides and then warn those who may be in warm's way.
 
 ##Forecast Landslides
 * Create and maintain a GIS database of areas susceptible to landslides
