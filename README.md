@@ -1,7 +1,7 @@
 # foreslide
 Forecast landslides and then warn those who may be in warm's way.
 
-##Forecast Landslides
+## Forecast Landslides
 * Create and maintain a GIS database of areas susceptible to landslides
   * Latitude, Longitude, Altitude
   * Slope of terrain
@@ -10,7 +10,7 @@ Forecast landslides and then warn those who may be in warm's way.
 * Gather rainfall data on each of those locations
 * Run an algorithm for each location to predict the likelihood of landslides
 
-##Warn those who may be in warm's way
+## Warn those who may be in warm's way
 * Publish a web-based red/yellow/green hotspot map 
 * Warn appropriate government officials
 * Send SMS and/or email messages to those subscribers who registered an interest in particular locations
