@@ -1,1 +1,1 @@
-print('locations')
+print( 'locations')
